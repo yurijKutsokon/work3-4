@@ -1,0 +1,39 @@
+body{
+    background: grey;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.col-md-12{
+    text-align: center;
+    margin-bottom:20px;
+
+}
+.container{
+    padding: 40px;
+    margin: 25px auto;
+    max-width: 970px;
+    background: white;
+}
+h2.text-center {
+    text-align: center;
+    font-size: 25px;
+}
+label{
+    margin: 10px 20px;
+    display: block;
+}
+.questions{
+    padding-left: 35px;
+    display: block;
+}
+.btn-group-lg .btn, .btn-lg{
+    margin-top: 20px;
+    background-color: #93c5ff;
+    margin-left: 340px;
+    margin-bottom: 20px;
+}
+input.testResults.btn-danger.btn-lg.active {
+    height: 40px;
+    width: 200px;
+}
